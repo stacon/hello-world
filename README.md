@@ -1,12 +1,22 @@
 # hello-world
-I am Constantine and this is me and my ideas<br>
+I am Constantine. I work as a Front-End developer for <b>Agile Actors</b>.<br>
+Clients that I have worked with are Alpha Bank, Advantage FSE and currently cooperating with Dixons South East Europe (aka Kotsovolos).
 
-I am interested into projects that contain:
-<ul>
-  <li> Web Applications Front-End <b>especially React </b> </li>
-  <li> I am currently practicing <b>functional programming</b> and I am in my early stage and I like it </li>
-  <li> <b>RxJS</b> is intriguing and I finally managed to understand how to use switchMap! </li>
-  <li> I am currently learning <b>Unit Testing</b>! </li>
-</ul>
+Additionally, I provide an introductory onboarding course for students who want to become professional developers. This course is 1:1 teaching model with a lot of material being provided and projects to work on. You can view the roadmap of this course right here (https://coggle.it/diagram/YGnl0rDPo3wpuAWv/t/railway_track-roadmap).
+
+## From the IT section in software development, I am attracted to:
+- Front-end development
+- Architecture
+- Reactive programming
+
+## I tend to focus relatively more than other aspects:
+- Software design and architecture
+- Clean code principles
+
+## I am interested into projects that contain:
+- Web Applications Front-End <b>especially React </b>
+
+## Currently studying:
+- Microservices Architecture and Implementation
 <br><br>
 
