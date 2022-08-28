@@ -1,6 +1,6 @@
 # hello-world
-I am Constantine. I work as a Front-End developer for <b>Agile Actors</b>.<br>
-Clients that I have worked with are Alpha Bank, Advantage FSE and currently cooperating with Dixons South East Europe (aka Kotsovolos).
+I am Constantine. I work as a Front-End developer for <b>Kaizen Gaming</b>.<br>
+My domain is Sportsbook website development/maintenance.
 
 Additionally, I provide an introductory onboarding course for students who want to become professional developers. This course is 1:1 teaching model with a lot of material being provided and projects to work on. You can view the roadmap of this course right here (https://coggle.it/diagram/YGnl0rDPo3wpuAWv/t/railway_track-roadmap).
 
@@ -14,9 +14,12 @@ Additionally, I provide an introductory onboarding course for students who want 
 - Clean code principles
 
 ## I am interested into projects that contain:
-- Web Applications Front-End <b>especially React </b>
+- Web Applications Front-End
 
 ## Currently studying:
+- Vue.js
+- Tailwind CSS
 - Microservices Architecture and Implementation
+
 <br><br>
 
